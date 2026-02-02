@@ -15,10 +15,10 @@ Hello! I'm **Phat Thanh Do**, a junior Computer Science major at the University 
 
 **University of Houston**  
 Bachelor of Science in Computer Science  
-Expected Graduation: [Year]  
+Expected Graduation: 2027 
 Current Status: Junior
 
-I'm currently pursuing my degree in the [Department of Computer Science](https://www.cs.uh.edu/) at the University of Houston, where I'm building a strong foundation in:
+I'm currently pursuing my degree in the [Department of Computer Science](https://www.uh.edu/nsm/computer-science/) at the University of Houston, where I'm building a strong foundation in:
 
 - Data Structures and Algorithms
 - Software Engineering
